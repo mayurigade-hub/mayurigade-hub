@@ -10,13 +10,6 @@
   <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" />
 </a>
 
-<h3>Current Focus</h3>
-<p>
-  sharpening problem-solving with <b>DSA in Java</b><br>
-  building real-world <b>full-stack apps (React & Node.js)</b><br>
-  learning to <b>think better before I code</b>
-</p>
-
 <h3>Tech Stack</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,tailwind,python,git,github&theme=dark" height="50" />
