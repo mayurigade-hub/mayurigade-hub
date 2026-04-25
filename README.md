@@ -3,7 +3,7 @@
 # Hey, I'm Mayuri 👋
 <p><i>not quite an expert yet — but I enjoy figuring things out the hard way.</i></p>
 
-<a href="https://linkedin.com/in/mayurigade">
+<a href="[https://linkedin.com/in/mayurigade](https://www.linkedin.com/in/mayuri-gade-435637378/)">
   <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" />
 </a>
 <a href="mailto:mayurigade569@gmail.com">
