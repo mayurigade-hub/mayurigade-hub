@@ -45,13 +45,6 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mayurigade-hub&theme=tokyo-night&hide_border=true" 
-  />
-</p>
-
-
 <p><i>I like building things I don’t fully understand yet — that’s where it gets interesting.</i></p>
 
 </div>
