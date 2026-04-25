@@ -19,7 +19,7 @@
 
 <h3>Tech Stack</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,tailwind,python,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,tailwind,python,git,github&theme=dark" height="50" />
 </p>
 
 <h3 align="center">⚡ Activity</h3>
