@@ -1,7 +1,7 @@
 <div align="center">
 
-# hi, i'm mayuri 👋
-<p><i>not quite an expert yet — but I enjoy figuring things out the hard way.</i></p>
+Hey, I'm Mayuri 👋
+<p><i>building full-stack apps, learning DSA, and figuring things out as I go.</i></p>
 
 <a href="https://linkedin.com/in/mayurigade">
   <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" />
