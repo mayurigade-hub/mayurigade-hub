@@ -10,24 +10,37 @@
   <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" />
 </a>
 
+</div>
 
-<h3>Current Focus</h3>
-<p>
-  sharpening problem-solving with <b>DSA in Java</b><br>
-  building real-world <b>full-stack apps (React & Node.js)</b><br>
-  learning to <b>think better before I code</b>
-</p>
+---
 
+<table>
+<tr>
+<td width="50%">
 
-<h3>Tech Stack</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,tailwind,python,git,github&theme=dark" />
-</p>
+### ⚡ Current Focus
 
+- sharpening problem-solving with **DSA in Java**  
+- building real-world **full-stack apps (React & Node.js)**  
+- learning to **think better before I code**
 
-<h3 align="center">⚡ Activity</h3>
+</td>
 
-<table align="center">
+<td width="50%" align="center">
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,tailwind,python,git,github&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### ⚡ Activity
+
+<table>
 <tr>
 <td>
 
@@ -55,6 +68,6 @@
   />
 </p>
 
-<p><i>I like building things I don’t fully understand yet — that’s where it gets interesting.</i></p>
+---
 
-</div>
+<p align="center"><i>I like building things I don’t fully understand yet — that’s where it gets interesting.</i></p>
