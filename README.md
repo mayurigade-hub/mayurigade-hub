@@ -27,16 +27,26 @@
 
 <h3 align="center">⚡ Activity</h3>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mayurigade-hub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=300" 
-    height="140"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=mayurigade-hub&theme=tokyonight&hide_border=true&cache_seconds=300" 
-    height="140"
-  />
-</p>
+<table align="center">
+<tr>
+<td>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=mayurigade-hub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=300" 
+  height="150"
+/>
+
+</td>
+<td>
+
+<img 
+  src="https://streak-stats.demolab.com?user=mayurigade-hub&theme=tokyonight&hide_border=true&cache_seconds=300" 
+  height="150"
+/>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img 
