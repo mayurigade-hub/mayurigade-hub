@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Mayuri 👋
-<p><i>not quite an expert yet — but I enjoy figuring things out the hard way.</i></p>
+<p><i>building full-stack apps, learning DSA, and improving how I think through problems.</i></p>
 
 <a href="https://linkedin.com/in/mayurigade">
   <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" />
@@ -18,8 +18,9 @@
 <h3 align="center">📊 Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurigade-hub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=300" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurigade-hub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=300" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurigade-hub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=300" height="130"/>
+  <img src="https://streak-stats.demolab.com?user=mayurigade-hub&theme=tokyonight&hide_border=true&cache_seconds=300" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurigade-hub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=300" height="130"/>
 </p>
 
 <p><i>I like building things I don’t fully understand yet — that’s where it gets interesting.</i></p>
