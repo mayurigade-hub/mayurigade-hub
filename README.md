@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Mayuri 👋
+# hi, i'm mayuri 👋
 <p><i>not quite an expert yet — but I enjoy figuring things out the hard way.</i></p>
 
 <a href="https://linkedin.com/in/mayurigade">
@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,tailwind,python,git,github&theme=dark" height="50" />
 </p>
 
-<h3 align="center">⚡ Activity</h3>
+<h3 align="center">📊 Activity</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayurigade-hub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=300" height="140"/>
