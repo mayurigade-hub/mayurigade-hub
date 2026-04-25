@@ -1,6 +1,6 @@
 <div align="center">
 
-Hey, I'm Mayuri 👋
+# Hey, I'm Mayuri 👋
 <p><i>building full-stack apps, learning DSA, and figuring things out as I go.</i></p>
 
 <a href="https://linkedin.com/in/mayurigade">
