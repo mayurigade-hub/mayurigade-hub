@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" />
 </a>
 
----
-
 <h3>Current Focus</h3>
 <p>
   learning <b>DSA in Java</b><br>
@@ -19,14 +17,12 @@
   exploring ideas through <b>hackathons</b>
 </p>
 
----
 
 <h3>Tech Stack</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,tailwind,python,git,github&theme=dark" />
 </p>
 
----
 
 <h3>Activity</h3>
 <p>
@@ -35,7 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurigade-hub&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
----
 
 <p><i>still exploring what I enjoy most — and building along the way.</i></p>
 
