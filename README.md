@@ -18,8 +18,8 @@
 <h3 align="center">📊 Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurigade-hub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=300" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurigade-hub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=300" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurigade-hub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=300" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurigade-hub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=300" height="140"/>
 </p>
 
 <p><i>I like building things I don’t fully understand yet — that’s where it gets interesting.</i></p>
