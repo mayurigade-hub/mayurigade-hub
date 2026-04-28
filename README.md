@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" />
 </a>
 
+---
+
 ### 🚀 What I'm Doing
 - Building full-stack applications using **MERN (MongoDB, Express, React, Node.js)**
 - Exploring **Generative AI (LLMs, RAG, AI integrations)**
