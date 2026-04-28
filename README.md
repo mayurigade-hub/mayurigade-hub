@@ -22,6 +22,7 @@
 - Exploring **Generative AI (LLMs, RAG, AI integrations)**
 - Practicing **Data Structures & Algorithms (Java)**
 - Learning **DevOps basics (Docker, deployment)**
+</div>
 
 </div>
 
