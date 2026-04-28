@@ -12,16 +12,28 @@
 
 </div>
 
+<div align="center">
+
 ### 🚀 What I'm Doing
+
+<div align="left" style="display: inline-block; text-align: left;">
+
 - Building full-stack applications using **MERN (MongoDB, Express, React, Node.js)**
 - Exploring **Generative AI (LLMs, RAG, AI integrations)**
 - Practicing **Data Structures & Algorithms (Java)**
 - Learning **DevOps basics (Docker, deployment)**
 
+</div>
+
+<div align="center">
+
 ### ⚙️ Tech Stack
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,tailwind,python,git,github&theme=dark" height="50" />
 </p>
+
+</div>
 
 ### 📊 Activity
 <p align="center">
