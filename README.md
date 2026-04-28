@@ -14,7 +14,7 @@
 
 <table width="100%" cellpadding="20">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ### 🚀 What I'm Doing
 
@@ -24,7 +24,7 @@
 - Learning **DevOps basics (Docker, deployment)**
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 ### ⚙️ Tech Stack
 
