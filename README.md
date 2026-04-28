@@ -9,13 +9,12 @@
 <a href="mailto:mayurigade569@gmail.com">
   <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" />
 </a>
+
 <br>
 
-<table width="100%" style="border-radius: 10px; padding: 20px;">
-
+<table width="100%" cellpadding="20">
 <tr>
-
-<td width="50%" valign="top" style="padding: 20px;">
+<td width="55%" valign="top">
 
 ### 🚀 What I'm Doing
 
@@ -25,8 +24,7 @@
 - Learning **DevOps basics (Docker, deployment)**
 
 </td>
-
-<td width="50%" valign="top" align="center" style="padding: 20px;">
+<td width="45%" valign="top" align="center">
 
 ### ⚙️ Tech Stack
 
@@ -35,9 +33,7 @@
 <img src="https://skillicons.dev/icons?i=tailwind,js,python,git,github&theme=dark" />
 
 </td>
-
 </tr>
-
 </table>
 
 <br>
