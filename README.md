@@ -11,10 +11,13 @@
 </a>
 
 ### 🚀 What I'm Doing
-- Building full-stack applications using **MERN (MongoDB, Express, React, Node.js)**
-- Exploring **Generative AI (LLMs, RAG, AI integrations)**
-- Practicing **Data Structures & Algorithms (Java)**
-- Learning **DevOps basics (Docker, deployment)**
+
+<div align="center">
+<p>Building full-stack applications using <b>MERN (MongoDB, Express, React, Node.js)</b></p>
+<p>Exploring <b>Generative AI (LLMs, RAG, AI integrations)</b></p>
+<p>Practicing <b>Data Structures & Algorithms (Java)</b></p>
+<p>Learning <b>DevOps basics (Docker, deployment)</b></p>
+</div>
 
 <h3>Tech Stack</h3>
 <p>
