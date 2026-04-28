@@ -15,7 +15,7 @@
 
 <tr>
 
-<td width="50%" valign="top" align="center" style="padding: 20px;">
+<td width="50%" valign="top" style="padding: 20px;">
 
 ### 🚀 What I'm Doing
 
