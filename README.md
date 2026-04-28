@@ -9,7 +9,6 @@
 <a href="mailto:mayurigade569@gmail.com">
   <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" />
 </a>
-</div>
 
 ### 🚀 What I'm Doing
 - Building full-stack applications using **MERN (MongoDB, Express, React, Node.js)**
