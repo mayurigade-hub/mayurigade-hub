@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" />
 </a>
 
+
 <table>
 <tr>
 
@@ -17,7 +18,7 @@
 
 ### 🚀 What I'm Doing
 
--  Building full-stack applications using **MERN (MongoDB, Express, React, Node.js)**
+-  Building full-stack applications using **MERN**
 -  Exploring **Generative AI (LLMs, RAG, AI integrations)**
 -  Practicing **Data Structures & Algorithms (Java)**
 -  Learning **DevOps basics (Docker, deployment)**
@@ -28,9 +29,9 @@
 
 ### ⚙️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=java,react,nodejs,express,mongodb&theme=dark" /><br><br>
 
-<img src="https://skillicons.dev/icons?i=tailwind,python,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tailwind,js,python,git,github&theme=dark" />
 
 </td>
 
