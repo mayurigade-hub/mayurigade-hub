@@ -12,10 +12,11 @@
 
 <br>
 
+
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 ### 🚀 What I'm Doing
 
@@ -26,7 +27,7 @@
 
 </td>
 
-<td width="60%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 ### ⚙️ Tech Stack
 
