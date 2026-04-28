@@ -10,43 +10,50 @@
   <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" />
 </a>
 
-<div align="center">
+## 🚀 Dashboard
 
-## 🚀 What I'm Doing
+<table>
+<tr>
 
-</div>
+<td width="50%" valign="top">
 
-<ul align="center" style="list-style-position: inside; display: inline-block; text-align: left;">
+### 🚀 What I'm Doing
 
-<li>Building full-stack applications using <b>MERN (MongoDB, Express, React, Node.js)</b></li>
+- 🔹 Building full-stack applications using **MERN (MongoDB, Express, React, Node.js)**
+- 🔹 Exploring **Generative AI (LLMs, RAG, AI integrations)**
+- 🔹 Practicing **Data Structures & Algorithms (Java)**
+- 🔹 Learning **DevOps basics (Docker, deployment)**
 
-<li>Exploring <b>Generative AI (LLMs, RAG, AI integrations)</b></li>
+</td>
 
-<li>Practicing <b>Data Structures & Algorithms (Java)</b></li>
+<td width="50%" valign="top" align="center">
 
-<li>Learning <b>DevOps basics (Docker, deployment)</b></li>
+### ⚙️ Tech Stack
 
-</ul>
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,tailwind,python,git,github&theme=dark" />
 
----
+</td>
 
-<div align="center">
+</tr>
+</table>
 
-## ⚙️ Tech Stack
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,tailwind,python,git,github&theme=dark" />
-</p>
+<table>
+<tr>
 
-</div>
+<td width="100%" align="center">
 
-<h3 align="center">📊 Activity</h3>
+### 📊 Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurigade-hub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=300" height="140"/>
-  <img src="https://streak-stats.demolab.com?user=mayurigade-hub&theme=tokyonight&hide_border=true&cache_seconds=300" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurigade-hub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=300" height="140"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mayurigade-hub&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+
+<img src="https://streak-stats.demolab.com?user=mayurigade-hub&theme=tokyonight&hide_border=true" height="150"/>
+
+</td>
+
+</tr>
+</table>
 
 <p><i>I like building things I don’t fully understand yet — that’s where it gets interesting.</i></p>
 
