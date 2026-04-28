@@ -12,22 +12,16 @@
 
 </div>
 
----
-
 ### 🚀 What I'm Doing
 - Building full-stack applications using **MERN (MongoDB, Express, React, Node.js)**
 - Exploring **Generative AI (LLMs, RAG, AI integrations)**
 - Practicing **Data Structures & Algorithms (Java)**
 - Learning **DevOps basics (Docker, deployment)**
 
----
-
 ### ⚙️ Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,tailwind,python,git,github&theme=dark" height="50" />
 </p>
-
----
 
 ### 📊 Activity
 <p align="center">
@@ -35,7 +29,5 @@
   <img src="https://streak-stats.demolab.com?user=mayurigade-hub&theme=tokyonight&hide_border=true&cache_seconds=300" height="140"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurigade-hub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=300" height="140"/>
 </p>
-
----
 
 <p><i>Currently focused on building real-world projects and integrating AI into web applications.</i></p>
