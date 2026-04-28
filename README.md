@@ -10,11 +10,12 @@
   <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" />
 </a>
 
+<br>
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🚀 What I'm Doing
 
@@ -25,7 +26,7 @@
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="60%" valign="top" align="center">
 
 ### ⚙️ Tech Stack
 
