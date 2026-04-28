@@ -16,7 +16,7 @@
 
 ### 🚀 What I'm Doing
 
-<div align="left" style="display: inline-block; text-align: left;">
+<div align="center" style="display: inline-block; text-align: center;">
 
 - Building full-stack applications using **MERN (MongoDB, Express, React, Node.js)**
 - Exploring **Generative AI (LLMs, RAG, AI integrations)**
@@ -36,11 +36,15 @@
 
 </div>
 
+<div align="center">
+
 ### 📊 Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayurigade-hub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=300" height="140"/>
   <img src="https://streak-stats.demolab.com?user=mayurigade-hub&theme=tokyonight&hide_border=true&cache_seconds=300" height="140"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurigade-hub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=300" height="140"/>
 </p>
+
+</div>
 
 <p><i>Currently focused on building real-world projects and integrating AI into web applications.</i></p>
