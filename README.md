@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" />
 </a>
 
-<br>
+---
 
 <table width="100%" cellpadding="20">
 <tr>
@@ -36,7 +36,7 @@
 </tr>
 </table>
 
-<br>
+---
 
 <h3 align="center">📊 Activity</h3>
 <p align="center"> 
