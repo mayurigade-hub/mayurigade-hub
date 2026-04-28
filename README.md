@@ -16,13 +16,17 @@
 
 ### 🚀 What I'm Doing
 
-<div align="center" style="display: inline-block; text-align: center;">
+<ul style="list-style-position: inside; display: inline-block; text-align: left;">
 
-- Building full-stack applications using **MERN (MongoDB, Express, React, Node.js)**
-- Exploring **Generative AI (LLMs, RAG, AI integrations)**
-- Practicing **Data Structures & Algorithms (Java)**
-- Learning **DevOps basics (Docker, deployment)**
-</div>
+<li>Building full-stack applications using <b>MERN (MongoDB, Express, React, Node.js)</b></li>
+
+<li>Exploring <b>Generative AI (LLMs, RAG, AI integrations)</b></li>
+
+<li>Practicing <b>Data Structures & Algorithms (Java)</b></li>
+
+<li>Learning <b>DevOps basics (Docker, deployment)</b></li>
+
+</ul>
 
 </div>
 
