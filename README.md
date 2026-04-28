@@ -9,25 +9,24 @@
 <a href="mailto:mayurigade569@gmail.com">
   <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" />
 </a>
-
 <br>
 
+<table width="100%" style="border-radius: 10px; padding: 20px;">
 
-<table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center" style="padding: 20px;">
 
 ### 🚀 What I'm Doing
 
--  Building full-stack applications using **MERN**
--  Exploring **Generative AI (LLMs, RAG, AI integrations)**
--  Practicing **Data Structures & Algorithms (Java)**
--  Learning **DevOps basics (Docker, deployment)**
+- Building full-stack applications using **MERN**
+- Exploring **Generative AI (LLMs, RAG, AI integrations)**
+- Practicing **Data Structures & Algorithms (Java)**
+- Learning **DevOps basics (Docker, deployment)**
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" style="padding: 20px;">
 
 ### ⚙️ Tech Stack
 
@@ -38,6 +37,7 @@
 </td>
 
 </tr>
+
 </table>
 
 <br>
