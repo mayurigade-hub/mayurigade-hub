@@ -45,16 +45,12 @@
     src="https://github-readme-stats.vercel.app/api?username=mayurigade-hub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
     height="150"
   />
-  <img 
-    src="https://streak-stats.demolab.com?user=mayurigade-hub&theme=tokyonight&hide_border=true" 
-    height="150"
-  />
+  
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurigade-hub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
     height="150"
   />
 </p>
-
 
 <p><i>I like building things I don’t fully understand yet — that’s where it gets interesting.</i></p>
 
