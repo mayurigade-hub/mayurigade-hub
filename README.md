@@ -42,17 +42,13 @@
   />
 </p>
 
----
-
 ## 🎵 Now Playing
 
 <p align="center">
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313bcav6i2tz7qko3l645bnb7xey&redirect=true">
-  <img
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=313bcav6i2tz7qko3l645bnb7xey&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"
-  />
-</a>
+<img
+  src="https://spotify-github-profile.kittinanx.com/api/view?uid=313bcav6i2tz7qko3l645bnb7xey&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false"
+/>
 
 </p>
 
