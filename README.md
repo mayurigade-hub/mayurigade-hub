@@ -11,11 +11,11 @@
   <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" />
 </a>
 
+---
+
 <table width="100%" cellpadding="20">
 <tr>
 <td width="50%" valign="top">
-
----
 
 ### 🚀 Currently Exploring
 - Building full-stack applications using **MERN**
