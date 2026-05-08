@@ -42,8 +42,6 @@
   />
 </p>
 
-## 🎵 Now Playing
-
 <p align="center">
 
 <img
