@@ -34,8 +34,6 @@
 </tr>
 </table>
 
----
-
 <h3 align="center">📊 Activity</h3>
 <p align="center">
   <img 
@@ -44,20 +42,23 @@
   />
 </p>
 
-<h3>🎵 Now Playing</h3>
+## 🎵 Now Playing
 
-<table>
-  <tr>
-    <td>
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313bcav6i2tz7qko3l645bnb7xey&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313bcav6i2tz7qko3l645bnb7xey&cover_image=true&theme=default" />
-      </a>
-    </td>
-    <td>
-      <i>Shuffle said this, not me 🤷‍♀️</i>
-    </td>
-  </tr>
-</table>
+<p align="center">
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313bcav6i2tz7qko3l645bnb7xey&redirect=true">
+  <img
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=313bcav6i2tz7qko3l645bnb7xey&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"
+  />
+</a>
+
+</p>
+
+<div align="center">
+
+<i>Shuffle said this, not me 🤷‍♀️</i>
+
+</div>
 
 ---
 
