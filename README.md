@@ -2,7 +2,7 @@
 
 # Hey, I'm Mayuri 👋
 
-<p><i>MERN Stack Developer exploring Generative AI and building intelligent web applications.</i></p>
+<p><i>Full-stack developer focused on MERN applications and AI integrations.</i></p>
 
 <a href="https://www.linkedin.com/in/mayuri-gade-435637378/">
   <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" />
@@ -10,8 +10,6 @@
 <a href="mailto:mayurigade569@gmail.com">
   <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" />
 </a>
-
----
 
 <table width="100%" cellpadding="20">
 <tr>
@@ -42,18 +40,6 @@
   />
 </p>
 
-<p align="center">
-
-<img
-  src="https://spotify-github-profile.kittinanx.com/api/view?uid=313bcav6i2tz7qko3l645bnb7xey&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false"
-/>
-
-</p>
-
-<div align="center">
-
-<i>Shuffle said this, not me 🤷‍♀️</i>
-
-</div>
+<p><i>I like building things I don’t fully understand yet — that’s where it gets interesting.</i></p>
 
 </div>
