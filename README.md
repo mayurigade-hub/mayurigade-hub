@@ -42,6 +42,8 @@
   />
 </p>
 
+---
+
 ## 🎵 Now Playing
 
 <p align="center">
@@ -59,9 +61,5 @@
 <i>Shuffle said this, not me 🤷‍♀️</i>
 
 </div>
-
----
-
-<p><i>I like building things I don't fully understand yet — that's where it gets interesting.</i></p>
 
 </div>
