@@ -15,6 +15,8 @@
 <tr>
 <td width="50%" valign="top">
 
+---
+
 ### 🚀 Currently Exploring
 - Building full-stack applications using **MERN**
 - Exploring **Generative AI (LLMs, RAG, AI integrations)**
