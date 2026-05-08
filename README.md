@@ -2,67 +2,84 @@
 
 # Hey, I'm Mayuri 👋
 
-<p><i>Full-stack developer focused on MERN applications and AI integrations.</i></p>
+<p>
+  <i>
+    Full-stack developer focused on MERN applications and AI integrations.
+  </i>
+</p>
 
 <a href="https://www.linkedin.com/in/mayuri-gade-435637378/">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:mayurigade569@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<a href="https://github.com/mayurigade-hub">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
 ---
 
-<table width="100%" cellpadding="20">
-<tr>
-<td width="50%" valign="top">
+##  Currently Exploring
 
-### 🚀 Currently Exploring
 - Building full-stack applications using **MERN**
-- Exploring **Generative AI (LLMs, RAG, AI integrations)**
+- Exploring **LLMs, RAG, and AI integrations**
 - Practicing **Data Structures & Algorithms (Java)**
-- Learning **DevOps basics (Docker, deployment)**
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### ⚙️ Tech Stack
-<img src="https://skillicons.dev/icons?i=java,react,nodejs,express,mongodb&theme=dark" /><br><br>
-<img src="https://skillicons.dev/icons?i=tailwind,js,python,git,github&theme=dark" />
-
-</td>
-</tr>
-</table>
+- Learning **Docker, deployment, and backend scalability**
 
 ---
 
-<h3 align="center">📊 Activity</h3>
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=mayurigade-hub&theme=tokyonight&hide_border=true" 
-    height="150"
-  />
+##  Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,react,nodejs,express,mongodb,tailwind,js,python,git,github,docker&theme=dark" />
 </p>
 
 ---
 
-<h3>🎵 Now Playing</h3>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default" />
-      </a>
-    </td>
-    <td>
-      <i>I listen random, so don't judge... 🎵</i>
-    </td>
-  </tr>
-</table>
+##  GitHub Stats
+
+<p align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=mayurigade-hub&show_icons=true&theme=tokyonight&hide_border=true" 
+  height="165"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurigade-hub&layout=compact&theme=tokyonight&hide_border=true" 
+  height="165"
+/>
+
+</p>
 
 ---
 
-<p><i>I like building things I don't fully understand yet — that's where it gets interesting.</i></p>
+## 🎵 Now Playing
+
+<p align="center">
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
+  <img
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"
+  />
+</a>
+
+</p>
+
+<p align="center">
+  <i>currently looping random songs at 2am 🎧</i>
+</p>
+
+---
+
+<div align="center">
+
+> *"I like building things I don’t fully understand yet — that’s where it gets interesting."*
 
 </div>
