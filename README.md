@@ -20,7 +20,6 @@
 ### 🚀 Currently Exploring
 - Building full-stack applications using **MERN**
 - Exploring **Generative AI (LLMs, RAG, AI integrations)**
-- Practicing **Data Structures & Algorithms (Java)**
 - Learning **DevOps basics (Docker, deployment)**
 
 </td>
