@@ -10,10 +10,6 @@
 <a href="mailto:mayurigade569@gmail.com">
   <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" />
 </a>
-<a href="https://discord.com/users/mayuri_15866">
-  <img src="https://img.shields.io/badge/Discord-1a1b26?style=for-the-badge&logo=discord&logoColor=7aa2f7" />
-</a>
-
 ---
 
 <table width="100%" cellpadding="20">
