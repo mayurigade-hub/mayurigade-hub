@@ -45,8 +45,10 @@
 
 ### 🌱 Beyond Coding
 
-- 🎵 Favorite Song: Perfect — Ed Sheeran
-- ☕ Passionate about teaching and learning
+🎵 Favorite Song: Perfect — Ed Sheeran
+☕ Passionate about teaching and learning
+
+---
 
 <p><i>I like building things I don’t fully understand yet — that’s where it gets interesting.</i></p>
 
