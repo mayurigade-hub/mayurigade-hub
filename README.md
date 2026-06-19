@@ -45,7 +45,7 @@
 
 ### 🌱 Beyond Coding
 
-🎵 Favorite Song: Perfect — Ed Sheeran
+🎵 Favorite Song: Moral of the Story - Ashe
 
 ☕ Passionate about teaching and learning
 
