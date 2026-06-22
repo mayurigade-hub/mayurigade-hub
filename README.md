@@ -45,7 +45,7 @@
 
 ### 🌱 Beyond Coding
 
-🎵 Favorite Song: Moral of the Story - Ashe
+🎵 Favorite Song: Dooron Dooron - Paresh Pahuja 
 
 ☕ Passionate about teaching and learning
 
