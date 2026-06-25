@@ -45,7 +45,7 @@
 
 ### 🌱 Beyond Coding
 
-🎵 Favorite Song: Dooron Dooron - Paresh Pahuja 
+🎵 Favorite Song: Ballu Harami(oye hoye kya seen hai 😝)
 
 ☕ Passionate about teaching and learning
 
