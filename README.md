@@ -45,7 +45,7 @@
 
 ### 🌱 Beyond Coding
 
-🎵 Favorite Song: Ballu Harami(oye hoye kya seen hai 😝)
+🎵 Favorite Song: Ballu Harami (oye hoye kya scene hai 😝)
 
 ☕ Passionate about teaching and learning
 
