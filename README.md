@@ -1,54 +1,26 @@
-<div align="center">
-
 # Hey, I'm Mayuri 👋
 
-<p><i>Full-stack developer focused on MERN applications and AI integrations.</i></p>
+Full-stack developer focused on MERN applications and AI integrations.
 
-<a href="https://www.linkedin.com/in/mayuri-gade-435637378/">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" />
-</a>
-<a href="mailto:mayurigade569@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" />
-</a>
+- [LinkedIn](https://www.linkedin.com/in/mayuri-gade-435637378/)
+- [Email](mailto:mayurigade569@gmail.com)
 
----
+## 🚀 Currently Exploring
 
-<table width="100%" cellpadding="20">
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Currently Exploring
 - Building full-stack applications using **MERN**
 - Exploring **Generative AI (LLMs, RAG, AI integrations)**
 - Learning **DevOps basics (Docker, deployment)**
 
-</td>
-<td width="50%" valign="top" align="center">
+## ⚙️ Tech Stack
 
-### ⚙️ Tech Stack
-<img src="https://skillicons.dev/icons?i=java,react,nodejs,express,mongodb&theme=dark" /><br><br>
-<img src="https://skillicons.dev/icons?i=tailwind,js,python,git,github&theme=dark" />
+Java, React, Node.js, Express, MongoDB, Tailwind CSS, JavaScript, Python, Git, GitHub.
 
-</td>
-</tr>
-</table>
+## 📊 Activity
 
-<h3 align="center">📊 Activity</h3>
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=mayurigade-hub&theme=tokyonight&hide_border=true" 
-    height="150"
-  />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=mayurigade-hub&theme=tokyonight&hide_border=true)
 
----
+## 🌱 Beyond Coding
 
-### 🌱 Beyond Coding
-
-🎵 Favorite Song: Ballu Harami (oye hoye kya scene hai 😝)
-
-☕ Passionate about teaching and learning
-
-❤️ Enjoy dancing a lott
-
-</div>
+- 🎵 Favorite song: Ballu Harami
+- ☕ Passionate about teaching and learning
+- ❤️ Enjoy dancing a lot
