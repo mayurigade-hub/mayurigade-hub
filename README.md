@@ -45,7 +45,7 @@
 
 ### 🌱 Beyond Coding
 
-🎵 Favorite Song: Ballu Harami (oye hoye kya scene hai 😝)
+🎵 Favorite Song: Kho Sa Gaya Hoon! - OUTSTATION❤️
 
 ☕ Passionate about teaching and learning
 
