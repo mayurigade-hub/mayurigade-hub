@@ -45,10 +45,10 @@
 
 ### 🌱 Beyond Coding
 
-🎵 Favorite Song: Kho Sa Gaya Hoon! - OUTSTATION❤️
+🎵 Favorite Song: Wavy - Karan Aujla🔥
 
 ☕ Passionate about teaching and learning
 
-❤️ Enjoy dancing a lott
+❤️ Enjoy dancing a lot
 
 </div>
