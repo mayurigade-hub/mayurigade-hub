@@ -40,15 +40,4 @@
     height="150"
   />
 </p>
-
----
-
-### 🌱 Beyond Coding
-
-🎵 Favorite Song: Wavy - Karan Aujla🔥
-
-☕ Passionate about teaching and learning
-
-❤️ Enjoy dancing a lot
-
 </div>
