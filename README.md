@@ -2,7 +2,7 @@
 
 # Hey, I'm Mayuri 👋
 
-<p><i>Full-stack developer focused on MERN applications and AI integrations.</i></p>
+<p><i>Backend-oriented SDE focused on building reliable applications and strengthening problem-solving skills.</i></p>
 
 <a href="https://www.linkedin.com/in/mayuri-gade-435637378/">
   <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" />
@@ -18,9 +18,10 @@
 <td width="50%" valign="top">
 
 ### 🚀 Currently Exploring
-- Building full-stack applications using **MERN**
-- Exploring **Generative AI (LLMs, RAG, AI integrations)**
-- Learning **DevOps basics (Docker, deployment)**
+- Strengthening **Java & DSA**
+- Building backend applications with **Spring Boot**
+- Learning **DBMS, OS & Computer Networks**
+- Exploring **Docker, Cloud & CI/CD**
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -41,3 +42,7 @@
   />
 </p>
 </div>
+
+## 💭 One line that inspires me a lot!
+
+> "The best way to learn is to build, break, debug, and build again."
