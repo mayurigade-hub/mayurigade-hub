@@ -41,8 +41,10 @@
     height="150"
   />
 </p>
-</div>
+
 
 ## 💭 One line that inspires me a lot!
 
 “I’m still learning. Still failing. Still becoming. And still crazy enough to believe I can.”
+</div>
+
