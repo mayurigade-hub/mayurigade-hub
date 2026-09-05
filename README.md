@@ -45,4 +45,4 @@
 
 ## 💭 One line that inspires me a lot!
 
-> "The best way to learn is to build, break, debug, and build again."
+“I’m still learning. Still failing. Still becoming. And still crazy enough to believe I can.”
